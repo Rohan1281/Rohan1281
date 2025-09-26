@@ -1,14 +1,24 @@
 [![MasterHead](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Md. Rohan</h1>
-<h3 align="center">Competitive Programmer </h3>
+<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Rohan</h1>
 
-## 📌 About Me
-- 🔭 I’m currently Studying at **Bangladesh University of Professionals**
-- 💬 Ask me about **Any CF Questions**
-- 📫 How to reach me **mdrohanrumc@gmail.com**
+</h1>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=25&center=true&vCenter=true&width=1000&height=100&color=E22FE4&lines=Competetive+Programmer;Computer+Science+Student;AI,+ML+and+Cloud+Enthusiast">
+</a>
 
 
-## 📊 GitHub Stats & Trophies
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+
+```
+Rohan_81
+--------
+📚 I am pursuing Computer Science & Engineering at the Bangladesh University of Professionals
+🌱 Learning about Data Structures and Algorithms 
+🚩 Interested in Competitive Programming & technology-based Hackathons
+🌟 Main languages: C, C++
+```
+<hr>
+<picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVoNHcyaGl1ajQ2bGVqM2k3azFoY2lkcXFuZW9haXYyNjVsNWVuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" width = 30px></picture> 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 & 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rohan1281&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="Rohan1281's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=Rohan1281&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Rohan1281's GitHub Streak" width="49%" />
@@ -21,14 +31,11 @@
 ## 🛠️ Languages & Tools
 
 ### Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan1281&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="48" height="48" style="margin: 4px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" />   </p>
 
 ## 🔗 Connect with Me
-<p align="center"> <a href="mailto:mdrohanrumc@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<p align="center"> <a href="https://www.facebook.com/Rohan.sowrdfish" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" alt="Facebook" width="40" height="40" style="margin: 0 8px;"/>
+  <a href="mailto:mdrohanrumc@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 ## 💬 Quote
 > Give me some motivation plz
