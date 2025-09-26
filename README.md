@@ -31,10 +31,10 @@ Rohan_81
 ## 🛠️ Languages & Tools
 
 ### Programming Languages
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="48" height="48" style="margin: 4px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" />   </p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="48" height="48" style="margin: 4px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" />   </p>
 
 ## 🔗 Connect with Me
-<p align="center"> <a href="https://www.facebook.com/Rohan.sowrdfish" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" alt="Facebook" width="40" height="40" style="margin: 0 8px;"/>
+<p> <a href="https://www.facebook.com/Rohan.sowrdfish" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" alt="Facebook" width="40" height="40" style="margin: 0 8px;"/>
   <a href="mailto:mdrohanrumc@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 ## 💬 Quote
